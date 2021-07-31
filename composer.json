@@ -17,7 +17,6 @@
         "psr/cache": "*",
         "nesbot/carbon": "^2.51",
         "symfony/yaml": "^5.3",
-        "cache/filesystem-adapter": "^1.1",
         "psr/http-message": "^1.0",
         "php-http/client-common": "^2.4",
         "php-http/httplug": "^2.2",
@@ -50,6 +49,9 @@
         "phpunit/phpunit": "^9.5",
         "squizlabs/php_codesniffer": "^3.6",
         "symfony/var-dumper": "^5.3",
-        "php-http/mock-client": "^1.4"
+        "php-http/mock-client": "^1.4",
+        "league/flysystem": "^2.2",
+        "league/flysystem-memory": "^2.0"
+
     }
 }
